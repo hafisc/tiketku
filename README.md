@@ -70,7 +70,7 @@
 
 | Layer | Technology |
 |-------|-----------|
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-10.x-FF2D20?logo=laravel&logoColor=white) PHP 8.2+ |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white) PHP 8.2+ |
 | **Frontend** | ![Blade](https://img.shields.io/badge/Blade-Templates-FF2D20?logo=laravel&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?logo=tailwindcss&logoColor=white) |
 | **Build Tool** | ![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?logo=vite&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white) |
@@ -96,8 +96,8 @@ Pastikan sistem kamu sudah memenuhi requirement berikut:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/hafisc/pemesanan-tiket.git
-cd pemesanan-tiket
+git clone https://github.com/hafisc/tiketku.git
+cd tiketku
 ```
 
 ### 2️⃣ Install Dependencies
